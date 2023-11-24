@@ -162,6 +162,7 @@ to resources.
   - 🇷🇴
     [Romanian vs Spanish (Colombia), Portuguese (Brazil), Italian](https://youtube.com/watch?v=iuo4MmYimHw)
     🇧🇷 🇨🇴 🇮🇹
+  - 🇷🇴 [Langfocus: How Similar Are ROMANIAN and ITALIAN?](https://www.youtube.com/watch?v=IJYzYHNMyKg) 🇮🇹
     <!-- This section was generated using the below JavaScript code for https://youtube.com/channel/UCsXnvpQfSAP-whL2CrcNTtg/videos:
     ```
     const relevantExpression = new RegExp("^Romance Languages? Comparison ?: [a-zA-Z0-9 ]+$", 'i');
@@ -317,10 +318,12 @@ to resources.
     [book](https://oladaniel.com/books),
     [game](https://oladaniel.com/games-and-stuff) and
     [font](https://oladaniel.com/fonts) designers specializing in educational
-    picture books for children.
+    picture books for children. Free
   - 🇷🇴🇺🇳 [Clozemaster](https://clozemaster.com/) - Gamified language learning
     through mass exposure to vocabulary in context. – Allows reading and
-    learning words as they were written in a sentence. – Features 50+ languages.
+    learning words as they were written in a sentence. – Features 50+ languages. Free/💰
+  - 🇷🇴🇺🇳 [Drops](https://languagedrops.com/) - Vocabulary learning app, different topics
+    with nice user interface. Already learned vocabulary can be repeated. Free/💰 
 
 ## Compiled resources
 
